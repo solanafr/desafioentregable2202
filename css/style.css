@@ -129,7 +129,7 @@ body {
 /* MAIN */
 
 .main {
-    background-color: lemonchiffon;
+    background-image: linear-gradient(gray, white);
     grid-area: main;
     display: flex;
     flex-direction: row;
@@ -162,7 +162,7 @@ body {
     text-align: center;
     font-size: 35px;
     padding-bottom: 15px;
-    background-color: lemonchiffon;
+    background-color: gray;
     padding-top: 10px;
 }
 
@@ -194,6 +194,9 @@ body {
     margin-right: 100px;
 }
 
+.img__scale:hover {
+    transform: scale(2);
+}
 
 
 /* DIV ARTICULO 3 INDEX */
