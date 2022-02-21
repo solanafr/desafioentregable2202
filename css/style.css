@@ -108,7 +108,7 @@ body {
 /* MAIN */
 
 .main {
-    background-color: lemonchiffon;
+    background-image: linear-gradient(gray, white);
     grid-area: main;
     display: flex;
     flex-direction: row;
@@ -140,7 +140,7 @@ body {
     text-align: center;
     font-size: 35px;
     padding-bottom: 15px;
-    background-color: lemonchiffon;
+    background-color: gray;
     padding-top: 10px;
 }
 
