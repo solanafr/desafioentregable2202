@@ -151,9 +151,7 @@ body {
     padding-bottom: 15px;
 }
 
-.img__scale:hover {
-    transform: scale(2);
-}
+
 .article__text {
     text-align: center;
 }
