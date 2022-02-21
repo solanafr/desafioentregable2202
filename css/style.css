@@ -91,6 +91,14 @@ body {
     margin-right: 100px;
 }
 
+.header__text__nomade {
+    color: black;
+    text-align: center;
+    padding-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 30px;
+}
 
 .header3__title {
     text-align: center;
